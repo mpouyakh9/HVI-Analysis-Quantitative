@@ -1,0 +1,415 @@
+Participant,From,To,Duration,File,Function,Scenario,Something related to traffic (red lights/moving forward/making turns),RPM,Speed,Brake,eyes off the road (yes or blank /no),Notes (collisions/any others things)
+P10,4426.5,4428.3,1.800000000000182,,others,expressway,Beginning of the ride --moving so slowly,720.0,3.2,0.0,yes,
+P10,4429.8,4432.1,2.300000000000182,,others,expressway,Beginning of the ride --moving so slowly,680.0,2.4,,yes,
+P10,4435.2,4437.2,2.0,,others,expressway,,2584.0,23.0,,yes,
+P10,4437.8,4439.7,1.8999999999996362,,others,expressway,,,,,yes,
+P10,4440.0,4440.7,0.6999999999998181,,volume up/down,expressway,,,,,yes,thought still have to interact with e-textiles (seat-belt)
+P10,4441.0,4442.0,1.0,,volume up/down,expressway,,,,,yes,thought still have to interact with e-textiles (seat-belt)
+P10,4442.2,4442.7,0.5,,others,expressway,,,,,yes,
+P10,4443.5,4444.95,1.449999999999818,,volume up/down,expressway,,,,,yes,
+P10,4445.1,4446.75,1.6499999999996362,,volume up/down,expressway,,,,,yes,
+P10,4447.6,4448.6,1.0,,volume up/down,expressway,,,,,yes,
+P10,4448.8,4449.6,0.8000000000001819,,volume up/down,expressway,,,,,yes,
+P10,4450.55,4451.7,1.1499999999996362,,volume up/down,expressway,,,,,yes,
+P10,4452.05,4453.4,1.3499999999994543,,volume up/down,expressway,,,,,yes,
+P10,4535.45,4536.8,1.3500000000003638,,forward/backward,expressway,,,,,yes,
+P10,4537.85,4539.3,1.449999999999818,,forward/backward,expressway,,,,,yes,
+P10,4547.6,4548.85,1.25,,volume up/down,expressway,,,,,yes,
+P10,4808.6,4809.7,1.0999999999994543,,volume up/down,expressway,,,,,yes,
+P10,4810.1,4812.05,1.949999999999818,,volume up/down,expressway,,,,,yes,
+P10,4813.85,4815.5,1.6499999999996362,,volume up/down,expressway,,,,,yes,
+P10,4816.2,4817.6,1.4000000000005457,,volume up/down,expressway,,,,,yes,
+P10,4819.55,4821.45,1.8999999999996362,,others,expressway,,,,,yes,
+P10,4822.0,4822.45,0.4499999999998181,,others,expressway,,,,,yes,
+P10,4822.7,4824.65,1.949999999999818,,volume up/down,expressway,,,,,yes,
+P10,4848.85,4852.55,3.699999999999818,,others,expressway,,,,,yes,
+P10,4852.75,4854.8,2.050000000000182,,others,expressway,,,,,yes,
+P10,4900.25,4902.3,2.050000000000182,,others,expressway,,,,,yes,
+P10,5029.85,5034.25,4.399999999999636,,pause/play,urban,,,,,Yes,Car was stopped and trying to pull out
+P10,5043.7,5044.05,0.3500000000003638,,others,urban,,,,,yes,
+P10,5045.3,5046.1,0.8000000000001819,,others,urban,near a turn,,,,yes,near a turn (looking at phone)
+P10,5046.25,5046.6,0.3500000000003638,,others,urban,near a turn,,,,yes,near a turn (looking at phone)
+P10,5047.3,5047.75,0.4499999999998181,,others,urban,while turning,,,,yes,While turning (looking at the phone)
+P10,5113.55,5114.35,0.8000000000001819,,others,urban,going straight,,,,Yes,Looking at phone
+P10,5146.0,5146.8,0.8000000000001819,,volume up/down,urban,near a turn -- moving,,,,yes,
+P10,5150.5,5152.55,2.050000000000182,,volume up/down,urban,near a turn -- stopped,,,,yes,
+P10,5238.35,5239.9,1.5499999999992724,,others,urban,near a turn -- moving,,,,yes,looking at phone
+P10,5305.85,5309.6,3.75,,others,urban,near a turn -- moving slowly,,,,Yes,looking at phone
+P10,5310.45,5312.45,2.0,,others,urban,near a turn -- moving slowly,,,,yes,looking at phone
+P10,5313.2,5317.6,4.400000000000546,,forward/backward,urban,near a turn -- moving slowly,,,,yes,
+P10,0.0,0.0,0.0,,volume up/down,urban,moving forward,,,,No,
+P10,5434.35,5437.35,3.0,,others,urban,near a turn -- moving slowly,,,,yes,looking at phone
+P10,5454.7,5455.1,0.4000000000005457,,others,urban,while turning,,,,Yes,looking at phone
+P15,3521.9,3522.9,1.0,,others,expressway,Start of the ride (the car moving so slowly),,,,yes,
+P15,3533.05,3534.65,1.599999999999909,,forward/backward,expressway,moving forward,,,,yes,failed once to execute the gesture
+P15,3537.8,3538.4,0.599999999999909,,others,expressway,,,,,yes,looking at phone
+P15,3539.6,3541.65,2.050000000000182,,forward/backward,expressway,,,,,Yes,failed once to execute the gesture
+P15,3558.75,3559.65,0.900000000000091,,volume up/down,expressway,,,,,yes,Executing one gesture with four glances on the phone
+P15,3600.35,3601.15,0.8000000000001819,,volume up/down,expressway,,,,,yes,
+P15,3602.5,3603.0,0.5,,volume up/down,expressway,,,,,yes,
+P15,3603.4,3603.9,0.5,,volume up/down,expressway,,,,,Yes,
+P15,3612.35,3613.15,0.8000000000001819,,forward/backward,expressway,,,,,No,Looked at the phone after gesture execution on the phone
+P15,3614.15,3614.8,0.650000000000091,,others,expressway,,,,,yes,Looking at phone
+P15,3617.0,3618.4,1.400000000000091,,pause/play,expressway,,,,,yes,unsuccesful gesture
+P15,3623.05,3624.5,1.449999999999818,,pause/play,expressway,,,,,Yes,failed once to execute the gesture
+P15,3625.1,3626.45,1.349999999999909,,pause/play,expressway,,,,,yes,failed once to execute the gesture
+P15,3636.6,3637.85,1.25,,forward/backward,expressway,,,,,yes,
+P15,3639.15,3639.75,0.599999999999909,,forward/backward,expressway,,,,,yes,
+P15,3640.8,3642.4,1.599999999999909,,others,expressway,,,,,yes,looking at phone
+P15,3642.8,3644.1,1.2999999999997272,,forward/backward,expressway,,,,,yes,unsuccesful gesture
+P15,3644.25,3644.75,0.5,,forward/backward,expressway,,,,,yes,unsuccesful gesture
+P15,3645.35,3647.2,1.849999999999909,,forward/backward,expressway,,,,,yes,
+P15,3649.0,3649.85,0.849999999999909,,others,expressway,,,,,yes,looking at phone
+P15,3650.65,3651.5,0.849999999999909,,volume up/down,expressway,,,,,yes,executing one gesture with four glances on the phone
+P15,3652.5,3653.5,1.0,,volume up/down,expressway,,,,,yes,
+P15,3655.3,3655.55,0.25,,volume up/down,expressway,,,,,yes,
+P15,3657.05,3657.95,0.8999999999996362,,volume up/down,expressway,,,,,yes,
+P15,3704.75,3706.35,1.599999999999909,,pause/play,expressway,,,,,yes,
+P15,3710.95,3712.05,1.1000000000003638,,pause/play,expressway,,,,,yes,
+P15,3714.65,3716.25,1.599999999999909,,forward/backward,expressway,,,,,yes,
+P15,3727.6,3730.1,2.5,,forward/backward,expressway,,,,,yes,
+P15,3731.05,3731.55,0.5,,others,expressway,,,,,yes,Looking at phone
+P15,3802.1,3803.35,1.25,,volume up/down,expressway,,,,,yes,executing one gesture with eight glances on the phone
+P15,3804.25,3805.85,1.599999999999909,,volume up/down,expressway,,,,,yes,
+P15,3806.4,3807.4,1.0,,volume up/down,expressway,,,,,yes,
+P15,3808.1,3809.75,1.650000000000091,,volume up/down,expressway,,,,,yes,
+P15,3810.55,3811.15,0.599999999999909,,volume up/down,expressway,,,,,yes,
+P15,3812.0,3812.55,0.5500000000001819,,volume up/down,expressway,,,,,yes,
+P15,3813.1,3815.85,2.75,,volume up/down,expressway,,,,,yes,
+P15,3816.4,3816.85,0.4499999999998181,,volume up/down,expressway,,,,,yes,
+P15,3818.3,3819.3,1.0,,others,expressway,,,,,yes,Looking around
+P15,3819.9,3820.8,0.900000000000091,,forward/backward,expressway,,,,,yes,
+P15,3821.85,3822.25,0.40000000000009095,,volume up/down,expressway,,,,,yes,executing one gesture with three glances on the phone
+P15,3823.1,3824.8,1.7000000000002728,,volume up/down,expressway,,,,,yes,
+P15,3825.35,3826.0,0.650000000000091,,volume up/down,expressway,,,,,yes,
+P15,3842.8,3843.35,0.5499999999997272,,volume up/down,expressway,,,,,yes,executing one gesture with three glances on the phone
+P15,3844.05,3844.64,0.5899999999996908,,volume up/down,expressway,,,,,yes,
+P15,3844.85,3845.1,0.25,,volume up/down,expressway,,,,,yes,
+P15,3849.35,3850.3,0.9500000000002728,,others,expressway,,,,,yes,tap on the screen
+P15,3851.3,3852.3,1.0,,forward/backward,expressway,,,,,yes,unsuccesful gesture
+P15,3853.25,3855.4,2.150000000000091,,forward/backward,expressway,,,,,yes,unsuccesful gesture
+P15,3856.05,3857.05,1.0,,forward/backward,expressway,,,,,yes,unsuccesful gesture
+P15,3857.65,3859.5,1.849999999999909,,forward/backward,expressway,,,,,yes,unsuccesful gesture
+P15,3900.0,3902.8,2.800000000000182,,forward/backward,expressway,,,,,yes,
+P15,3903.25,3904.6,1.349999999999909,,forward/backward,expressway,,,,,yes,Executing one gesture with four glances on the phone
+P15,3904.8,3906.6,1.7999999999997272,,forward/backward,expressway,,,,,yes,
+P15,3907.25,3907.55,0.3000000000001819,,forward/backward,expressway,,,,,yes,
+P15,3908.0,3908.65,0.650000000000091,,forward/backward,expressway,,,,,yes,
+P15,4006.0,4007.35,1.349999999999909,,forward/backward,expressway,,,,,yes,
+P15,4008.55,4010.0,1.449999999999818,,pause/play,expressway,,,,,yes,unsuccesful gesture
+P15,4010.8,4011.4,0.599999999999909,,pause/play,expressway,,,,,yes,unsuccesful gesture
+P15,4107.5,4108.0,0.5,,volume up/down,urban,,,,,yes,
+P15,4109.8,4110.1,0.3000000000001819,,volume up/down,urban,,,,,yes,
+P15,4128.7,4129.35,0.6500000000005457,,forward/backward,urban,,,,,yes,
+P15,4149.9,4150.75,0.8500000000003638,,forward/backward,urban,,,,,yes,
+P15,4151.25,4151.55,0.3000000000001819,,pause/play,urban,,,,,yes,unsuccesful gesture
+P15,4156.15,4156.6,0.4500000000007276,,others,urban,,,,,yes,looking at the phone at the intersection
+P15,4156.85,4157.85,1.0,,volume up/down,urban,,,,,yes,at the intersection
+P15,4158.3,4158.85,0.5500000000001819,,pause/play,urban,,,,,yes,at the intersection
+P15,4202.5,4204.15,1.6499999999996362,,pause/play,urban,,,,,yes,failed once to execute the gesture
+P15,4243.65,4244.15,0.5,,forward/backward,urban,,,,,yes,
+P15,4245.5,4245.9,0.3999999999996362,,others,urban,,,,,yes,looking at phone
+P15,4247.5,4248.18,0.680000000000291,,volume up/down,urban,,,,,yes,
+P15,4252.65,4256.3,3.6500000000005457,,volume up/down,urban,car was stopped before turn,,,,yes,
+P15,4316.5,4317.25,0.75,,forward/backward,urban,,,,,yes,
+P15,4318.0,4318.5,0.5,,others,urban,,,,,yes,Looking at phone
+P15,4323.55,4332.3,8.75,,forward/backward,urban,car was stopped before turn,,,,yes,unsuccesful gesture for pause
+P15,0.0,0.0,0.0,,volume up/down,urban,car was stopped before turn,,,,No,
+P15,4355.15,4356.0,0.8500000000003638,,volume up/down,urban,,,,,yes,Executing one gesture with four glances on the phone
+P15,4357.3,4357.9,0.5999999999994543,,volume up/down,urban,,,,,yes,
+P15,4359.1,4359.35,0.25,,volume up/down,urban,,,,,yes,
+P15,4402.5,4403.1,0.6000000000003638,,volume up/down,urban,,,,,yes,
+P15,4403.6,4404.1,0.5,,others,urban,,,,,yes,tap on the screen
+P15,4405.4,4406.75,1.3500000000003638,,forward/backward,urban,,,,,yes,unsuccesful gesture
+P15,4407.15,4408.13,0.9800000000004729,,forward/backward,urban,,,,,yes,
+P15,4408.65,4409.25,0.6000000000003638,,others,urban,,,,,yes,looking at phone
+P15,4419.85,4420.5,0.6499999999996362,,others,urban,car was stopped before turn,,,,yes,looking at phone
+P15,4421.4,4422.0,0.6000000000003638,,pause/play,urban,car was stopped before turn,,,,yes,
+P15,4422.6,4423.7,1.0999999999994543,,pause/play,urban,,,,,yes,
+P15,4426.3,4427.15,0.8499999999994543,,pause/play,urban,car was stopped before turn,,,,yes,
+P15,4445.85,4446.55,0.6999999999998181,,forward/backward,urban,,,,,yes,
+P15,4506.55,4507.35,0.8000000000001819,,volume up/down,urban,,,,,yes,
+P15,4512.85,4513.5,0.6499999999996362,,volume up/down,urban,,,,,yes,
+P15,4523.05,4523.85,0.8000000000001819,,forward/backward,urban,,,,,yes,unsuccesful gesture
+P15,4524.4,4525.05,0.6500000000005457,,others,urban,,,,,yes,looking at phone
+P15,4525.6,4526.85,1.25,,forward/backward,urban,,,,,yes,
+P15,4529.4,4529.9,0.5,,forward/backward,urban,,,,,yes,
+P15,4554.65,4555.4,0.75,,pause/play,urban,,,,,yes,unsuccessful gesture
+P15,4602.8,4604.2,1.3999999999996362,,forward/backward,urban,,,,,yes,
+P18,0021.1,0022.1,1.0,,others,expressway,,,,,yes,looking at phone
+P18,0022.6,0023.3,0.6999999999999993,,others,expressway,,,,,yes,changing the slider position
+P18,0023.95,0025.75,1.8000000000000007,,others,expressway,,,,,yes,
+P18,0027.05,0029.05,2.0,,others,expressway,,,,,yes,changing the slider position
+P18,0030.65,0031.65,1.0,,others,expressway,,,,,yes,looking at phone
+P18,0050.0,0052.4,2.3999999999999986,,forward/backward,expressway,,,,,yes,
+P18,0100.15,0101.1,0.9499999999999886,,others,expressway,,,,,yes,looking at phone
+P18,0101.6,0102.7,1.1000000000000085,,others,expressway,,,,,yes,unsuccesful gesture (streched his hand to execute the gesture but changed his mind)
+P18,0115.4,0117.35,1.9499999999999886,,forward/backward,expressway,very close a car on the others lane,,,,yes,unsuccesful gesture
+P18,0118.45,0119.65,1.2000000000000028,,forward/backward,expressway,,,,,yes,
+P18,0120.2,0121.7,1.5,,forward/backward,expressway,,,,,yes,
+P18,0122.0,0125.95,3.950000000000003,,forward/backward,expressway,,,,,yes,
+P18,0130.2,0131.65,1.450000000000017,,others,expressway,,,,,yes,looking at phone
+P18,0132.05,0133.45,1.3999999999999773,,others,expressway,,,,,yes,looking at phone
+P18,0134.9,0138.65,3.75,,others,expressway,,,,,yes,unsuccesful gesture (trying to adjust the slider but suddenly music went to the previous song)
+P18,0138.95,0141.15,2.200000000000017,,others,expressway,,,,,yes,looking at phone
+P18,0142.2,0147.1,4.900000000000006,,pause/play,expressway,,,,,yes,changing the slider position and unsuccessful pause gesture
+P18,0211.05,0213.6,2.549999999999983,,others,expressway,,,,,yes,changing the slider position
+P18,0234.55,0235.2,0.6499999999999773,,others,expressway,,,,,yes,looking at phone
+P18,0244.55,0245.35,0.799999999999983,,others,expressway,,,,,yes,looking at phone
+P18,0251.2,0254.9,3.700000000000017,,others,expressway,,,,,yes,changing the slider position
+P18,0255.1,0257.55,2.450000000000017,,others,expressway,,,,,yes,looking at phone
+P18,0300.0,0302.05,2.0500000000000114,,others,expressway,,,,,yes,trying to know how to change volume
+P18,0301.2,0303.15,1.9499999999999886,,volume up/down,expressway,,,,,yes,unsuccesful gesture ( had difficulty working with the volume function on the phone. The phone screen was turned off and he wasnt able to control the volume)
+P18,0303.4,0305.65,2.25,,volume up/down,expressway,,,,,yes,
+P18,0306.7,0312.0,5.300000000000011,,volume up/down,expressway,,,,,yes,
+P18,0313.2,0314.15,0.9499999999999886,,volume up/down,expressway,,,,,yes,
+P18,0314.55,0315.35,0.8000000000000114,,volume up/down,expressway,,,,,yes,
+P18,0316.85,0321.7,4.849999999999966,,volume up/down,expressway,,,,,yes,
+P18,0322.55,0328.05,5.5,,volume up/down,expressway,,,,,yes,
+P18,0457.95,0459.2,1.25,,others,expressway,,,,,yes,tap on the screen
+P18,0500.0,0507.4,7.399999999999977,,volume up/down,expressway,,,,,yes,
+P18,1136.35,1138.55,2.2000000000000455,,forward/backward,urban,,,,,yes,
+P18,1139.1,1141.6,2.5,,forward/backward,urban,,,,,yes,
+P18,1145.3,1146.05,0.75,,others,urban,While turning,,,,yes,looking at phone
+P18,1154.75,1155.85,1.099999999999909,,volume up/down,urban,close to a turn,,,,yes,
+P18,1248.6,1251.2,2.6000000000001364,,others,urban,car was stopped before turn,,,,yes,looking at phone
+P18,1316.4,1319.35,2.949999999999818,,forward/backward,urban,,,,,yes,
+P18,1319.7,1323.5,3.7999999999999545,,volume up/down,urban,,,,,yes,executing one gesture with two glances on the phone
+P18,1324.25,1325.6,1.349999999999909,,volume up/down,urban,,,,,yes,
+P18,1345.3,1346.35,1.0499999999999545,,others,urban,,,,,yes,looking at phone
+P18,1412.65,1415.6,2.949999999999818,,volume up/down,urban,,,,,yes,
+P18,1520.4,1520.4,0.0,,,urban,,,,,,collided to the sidewalk
+P18,1524.85,1526.6,1.75,,volume up/down,urban,,,,,yes,
+P18,1529.0,1530.1,1.099999999999909,,others,urban,,,,,yes,looking at phone
+P19,1820.25,1820.95,0.7000000000000455,,others,expressway,,,,,,looking at phone
+P19,1822.4,1823.15,0.75,,others,expressway,,,,,,looking at phone
+P19,1823.5,1824.45,0.9500000000000455,,others,expressway,,,,,,looking at phone
+P19,1825.5,1826.6,1.099999999999909,,others,expressway,,,,,,looking at phone
+P19,1827.6,1829.0,1.400000000000091,,others,expressway,,,,,,looking at phone
+P19,1829.8,1831.1,1.2999999999999545,,others,expressway,,,,,,looking at phone
+P19,1832.15,1834.7,2.5499999999999545,,forward/backward,expressway,,,,,,failed once to execute the gesture
+P19,1835.7,1838.15,2.4500000000000455,,forward/backward,expressway,,,,,,unsuccesful gesture
+P19,1838.45,1839.45,1.0,,forward/backward,expressway,,,,,,unsuccesful gesture
+P19,1840.35,1841.7,1.3500000000001364,,forward/backward,expressway,,,,,,unsuccesful gesture
+P19,1842.25,1845.15,2.900000000000091,,forward/backward,expressway,deviated from the lane,,,,,unsuccesful gesture
+P19,1845.6,1849.1,3.5,,forward/backward,expressway,deviated from the lane,,,,,failed twice to execute the gesture
+P19,1904.6,1906.7,2.1000000000001364,,forward/backward,expressway,,,,,,unsuccesful gesture
+P19,1907.1,1909.0,1.900000000000091,,others,expressway,,,,,,looking at phone
+P19,1909.35,1911.1,1.75,,forward/backward,expressway,,,,,,
+P19,1911.85,1913.4,1.550000000000182,,forward/backward,expressway,,,,,,
+P19,1914.15,1915.95,1.7999999999999545,,forward/backward,expressway,,,,,,
+P19,1938.7,1939.4,0.7000000000000455,,volume up/down,expressway,,,,,,
+P19,1940.9,1941.9,1.0,,others,expressway,,,,,,tap on the screen
+P19,1942.85,1943.75,0.900000000000091,,forward/backward,expressway,,,,,,unsuccesful gesture
+P19,1944.3,1945.45,1.150000000000091,,forward/backward,expressway,,,,,,unsuccesful gesture
+P19,1945.85,1947.2,1.3500000000001364,,forward/backward,expressway,,,,,,unsuccesful gesture
+P19,1947.5,1949.5,2.0,,forward/backward,expressway,,,,,,unsuccesful gesture
+P19,1949.95,1951.5,1.5499999999999545,,forward/backward,expressway,,,,,,failed once to execute the gesture
+P19,1951.9,1954.8,2.8999999999998636,,pause/play,expressway,,,,,,
+P19,1955.35,1956.0,0.650000000000091,,others,expressway,,,,,,looking at phone
+P19,1958.45,1959.0,0.5499999999999545,,others,expressway,,,,,,looking at phone
+P19,2007.3,2008.0,0.7000000000000455,,others,expressway,,,,,,looking at phone
+P19,2035.1,2036.15,1.050000000000182,,others,expressway,,,,,,looking at phone
+P19,2036.45,2037.1,0.6499999999998636,,others,expressway,,,,,,looking at phone
+P19,2037.45,2039.1,1.6499999999998636,,pause/play,expressway,,,,,,
+P19,2039.45,2040.65,1.2000000000000455,,pause/play,expressway,,,,,,
+P19,2041.1,2042.45,1.3500000000001364,,pause/play,expressway,,,,,,
+P19,2122.65,2123.2,0.5499999999997272,,others,expressway,,,,,,looking at phone
+P19,2137.75,2138.85,1.099999999999909,,volume up/down,expressway,,,,,,
+P19,0813.8,0816.5,2.7000000000000455,,forward/backward,urban,,,,,,
+P19,0833.65,0836.0,2.3500000000000227,,volume up/down,urban,,,,,,
+P19,0836.8,0839.75,2.9500000000000455,,volume up/down,urban,,,,,,
+P19,0855.35,0856.3,0.9499999999999318,,pause/play,urban,while turning,,,,,
+P19,0902.55,0904.8,2.25,,pause/play,urban,,,,,,failed once to execute the gesture
+P19,0916.6,0917.5,0.8999999999999773,,volume up/down,urban,car was stopped before turn,,,,,
+P19,0918.2,0920.55,2.349999999999909,,volume up/down,urban,,,,,,
+P19,0938.05,0940.2,2.150000000000091,,forward/backward,urban,close to a turn,,,,,
+P19,0958.8,0959.7,0.900000000000091,,others,urban,close to a turn,,,,,looking at phone
+P19,1000.45,1004.7,4.25,,forward/backward,urban,very close to a turn moving slowly ,,,,,stopped at the end of interaction without looking at the road
+P19,1024.55,1026.2,1.650000000000091,,forward/backward,urban,,,,,,
+P19,1026.6,1027.2,0.6000000000001364,,others,urban,,,,,,looking at phone
+P19,1029.0,1030.1,1.099999999999909,,others,urban,,,,,,looking at phone
+P19,1031.1,1035.55,4.4500000000000455,,others,urban,,,,,,stopped while looking at the phone
+P19,1039.5,1041.45,1.9500000000000455,,volume up/down,urban,very close to a turn moving slowly ,,,,,
+P19,1058.55,1059.9,1.3500000000001364,,others,urban,very close to a turn moving slowly ,,,,,looking at phone
+P19,1100.3,1100.95,0.650000000000091,,others,urban,very close to a turn moving slowly ,,,,,looking at phone
+P19,1102.6,1105.5,2.900000000000091,,pause/play,urban,very close to a turn moving slowly ,,,,,crashed with a car turning
+P19,1112.1,1114.9,2.800000000000182,,pause/play,urban,car was stopped before turn,,,,,
+P19,1131.1,1131.75,0.650000000000091,,others,urban,,,,,,looking at phone
+P19,1144.7,1148.45,3.75,,others,urban,very close to a turn moving slowly ,,,,,stopped while looking at the phone
+P19,1200.0,1205.3,5.2999999999999545,,pause/play,urban,car was stopped before turn,,,,,"Becasue of the interaction, she had delay to move"-2 pauses
+P2,2215.45,2216.3,0.8500000000003638,,volume up/down,expressway,,,,,,
+P2,2232.1,2233.2,1.099999999999909,,volume up/down,expressway,,,,,,
+P2,2235.4,2236.35,0.9499999999998181,,volume up/down,expressway,,,,,,
+P2,2241.5,2242.05,0.5500000000001819,,others,expressway,,,,,,looking at phone
+P2,2245.1,2246.0,0.900000000000091,,others,expressway,,,,,,looking at phone
+P2,2246.2,2247.2,1.0,,others,expressway,,,,,,looking at phone
+P2,2248.0,2248.45,0.4499999999998181,,volume up/down,expressway,,,,,,
+P2,2306.3,2308.3,2.0,,forward/backward,expressway,,,,,,
+P2,2308.7,2309.55,0.8500000000003638,,others,expressway,,,,,,looking at phone
+P2,2310.05,2310.45,0.3999999999996362,,volume up/down,expressway,,,,,,
+P2,2311.3,2312.1,0.7999999999997272,,volume up/down,expressway,,,,,,
+P2,2329.8,2332.0,2.199999999999818,,volume up/down,expressway,,,,,,
+P2,2400.85,2402.2,1.349999999999909,,volume up/down,expressway,,,,,,
+P2,2402.75,2404.2,1.449999999999818,,volume up/down,expressway,,,,,,
+P2,2433.25,2433.65,0.40000000000009095,,volume up/down,expressway,,,,,,
+P2,2457.0,2458.0,1.0,,volume up/down,expressway,,,,,,
+P2,2519.25,2519.25,0.0,,volume up/down,expressway,,,,,no,
+P2,2521.0,2521.95,0.9499999999998181,,volume up/down,expressway,,,,,,Before executing gesture tapped on the screen
+P2,2541.3,2542.8,1.5,,others,expressway,,,,,,tap on the screen
+P2,2543.5,2544.5,1.0,,volume up/down,expressway,,,,,,
+P2,2545.3,2545.75,0.4499999999998181,,volume up/down,expressway,,,,,,
+P2,2555.7,2558.95,3.25,,others,expressway,,,,,,tap on the screen
+P2,2600.0,2600.55,0.5500000000001819,,volume up/down,expressway,,,,,,
+P2,2600.5,2601.5,1.0,,volume up/down,expressway,,,,,,
+P2,2609.05,2609.85,0.7999999999997272,,others,expressway,,,,,,looking at phone
+P2,2610.1,2610.75,0.650000000000091,,volume up/down,expressway,,,,,,
+P2,2614.8,2615.8,1.0,,volume up/down,expressway,,,,,,
+P2,2642.45,2643.6,1.150000000000091,,others,expressway,deviated from the lane,,,,,tap on the screen
+P2,2649.1,2651.05,1.9500000000002728,,forward/backward,expressway,,,,,,
+P2,1602.8,1603.6,0.7999999999999545,,volume up/down,urban,very close to a turn moving slowly ,,,,,
+P2,1620.2,1620.7,0.5,,volume up/down,urban,very close to a turn moving slowly ,,,,,
+P2,1625.55,1626.7,1.150000000000091,,volume up/down,urban,car was stopped before turn,,,,,
+P2,1737.05,1737.7,0.650000000000091,`,volume up/down,urban,,,,,,crashed with a car merging to participants lane
+P2,1744.6,1745.3,0.7000000000000455,,others,urban,,,,,,looking at phone
+P2,1800.2,1802.25,2.0499999999999545,,volume up/down,urban,car was stopped before turn,,,,,
+P2,1806.1,1806.5,0.40000000000009095,,others,urban,close to a turn,,,,,looking at phone
+P2,1835.5,1840.2,4.7000000000000455,,forward/backward,urban,car was stopped before turn,,,,,
+P2,1937.1,1937.7,0.6000000000001364,,volume up/down,urban,,,,,,
+P2,1938.5,1939.3,0.7999999999999545,,volume up/down,urban,,,,,,
+P2,1956.0,1956.9,0.900000000000091,,others,urban,,,,,,looking at phone
+P20,0609.2,0609.9,0.6999999999999318,,others,expressway,,,,,,looking at phone
+P20,0620.55,0621.6,1.0500000000000682,,volume up/down,expressway,,,,,,
+P20,0645.1,0645.8,0.6999999999999318,,others,expressway,,,,,,looking at phone
+P20,0655.1,0656.0,0.8999999999999773,,others,expressway,,,,,,looking at phone
+P20,0713.55,0715.25,1.7000000000000455,,forward/backward,expressway,,,,,,
+P20,0715.65,0717.4,1.75,,forward/backward,expressway,,,,,,tapped twice
+P20,0718.8,0719.9,1.1000000000000227,,volume up/down,expressway,,,,,,"second glance for confirmation of the gesture execution, which lead him to look at the phone longer than usual"
+P20,0722.5,0723.25,0.75,,volume up/down,expressway,,,,,,
+P20,0917.15,0918.05,0.8999999999999773,,others,expressway,,,,,,looking at phone
+P20,1001.8,1003.4,1.6000000000000227,,others,expressway,,,,,,looking at phone
+P20,1014.0,1015.0,1.0,,others,expressway,,,,,,looking at phone
+P20,1112.1,1113.25,1.150000000000091,,others,expressway,,,,,,looking at phone
+P20,1211.5,1212.55,1.0499999999999545,,others,urban,,,,,,looking at phone
+P20,1213.05,1213.85,0.7999999999999545,,volume up/down,urban,close to a turn,,,,,
+P20,1225.9,1226.65,0.75,,others,urban,,,,,,looking at phone
+P20,1247.8,1255.25,7.4500000000000455,,others,urban,car was stopped before turn,,,,,Tapping on the screen and moving the slider
+P20,1319.9,1320.65,0.75,,others,urban,,,,,,looking at phone
+P20,1346.05,1348.4,2.3500000000001364,,forward/backward,urban,close to a turn,,,,,
+P20,1348.8,1349.75,0.9500000000000455,,forward/backward,urban,,,,,,
+P20,1357.05,1358.05,1.0,,others,urban,car was stopped before turn,,,,,looking at phone
+P20,1402.0,1402.85,0.849999999999909,,others,urban,car was stopped before turn,,,,,looking at phone
+P20,1435.6,1438.0,2.400000000000091,,forward/backward,urban,very close to a turn ,,,,,
+P20,1439.4,1441.5,2.099999999999909,,volume up/down,urban,,,,,,
+P20,1515.05,1518.3,3.25,,others,urban,very close to a turn ,,,,,eyes still on the phone while passing the turn
+P20,1632.75,1634.05,1.2999999999999545,,volume up/down,urban,very close to a turn ,,,,,
+P20,1634.75,1641.15,6.400000000000091,,volume up/down,urban,car was stopped before turn,,,,,before executing volume gesture had an unssucessful pause gesture
+P23,0300.0,0302.1,2.1000000000000227,,volume up/down,expressway,Beginning of the ride --moving so slowly,,,,,
+P23,0305.1,0306.3,1.1999999999999886,,volume up/down,expressway,,,,,,
+P23,0308.1,0309.7,1.599999999999966,,pause/play,expressway,,,,,,
+P23,0311.15,0312.35,1.2000000000000455,,pause/play,expressway,,,,,,
+p23,0316.4,0317.55,1.150000000000034,,forward/backward,expressway,,,,,,
+P23,0318.35,0319.55,1.1999999999999886,,forward/backward,expressway,deviated from the lane,,,,,unsuccessful gesture
+P23,0320.4,0321.3,0.9000000000000341,,forward/backward,expressway,,,,,,
+P23,0326.3,0327.8,1.5,,forward/backward,expressway,,,,,,unsuccessful gesture
+P23,0330.0,0331.7,1.6999999999999886,,forward/backward,expressway,,,,,,unsuccessful gesture
+p23,0332.9,0334.3,1.400000000000034,,forward/backward,expressway,deviated from the lane,,,,,
+P23,0337.4,0339.05,1.650000000000034,,forward/backward,expressway,,,,,,failed multiple times to execute the previous function
+P23,0339.9,0341.9,2.0,,forward/backward,expressway,,,,,,
+P23,0341.95,0342.6,0.6500000000000341,,forward/backward,expressway,,,,,,
+P23,0345.0,0347.0,2.0,,forward/backward,expressway,,,,,,
+p23,0349.9,0351.55,1.650000000000034,,others,expressway,,,,,,looking at phone
+P23,0352.1,0354.85,2.75,,forward/backward,expressway,deviated from the lane,,,,,unsuccessful gesture
+P23,0401.7,0402.9,1.1999999999999886,,others,expressway,,,,,,looking at phone
+P23,0403.9,0404.35,0.4500000000000455,,volume up/down,expressway,,,,,,
+P23,0407.0,0408.15,1.1499999999999773,,volume up/down,expressway,,,,,,
+p23,0411.7,0414.3,2.6000000000000227,,forward/backward,expressway,,,,,,
+P23,0414.8,0416.1,1.3000000000000114,,forward/backward,expressway,,,,,,
+P23,0417.15,0418.95,1.8000000000000114,,forward/backward,expressway,,,,,,unsuccessful gesture for next function
+P23,0419.75,0421.65,1.8999999999999773,,forward/backward,expressway,,,,,,
+P23,0422.05,0423.45,1.3999999999999773,,forward/backward,expressway,,,,,,
+p23,0424.45,0425.45,1.0,,forward/backward,expressway,,,,,,
+P23,0427.1,0428.15,1.0499999999999545,,forward/backward,expressway,,,,,,unsuccessful gesture for previous function
+P23,0429.45,0431.55,2.1000000000000227,,forward/backward,expressway,,,,,,unsuccessful gesture for previous function
+P23,0432.15,0433.35,1.2000000000000455,,forward/backward,expressway,,,,,,
+P23,0434.0,0435.45,1.4499999999999886,,forward/backward,expressway,,,,,,
+p23,0436.85,0438.7,1.849999999999966,,forward/backward,expressway,,,,,,
+P23,0439.45,0440.1,0.6500000000000341,,others,expressway,,,,,,looking at phone
+P23,0441.3,0442.55,1.25,,others,expressway,,,,,,looking at phone
+P23,0532.45,0533.35,0.8999999999999773,,others,expressway,,,,,,looking at phone
+P23,0554.5,0556.1,1.6000000000000227,,forward/backward,expressway,,,,,,
+p23,0600.0,0600.64,0.6399999999999864,,volume up/down,expressway,,,,,,
+P23,0600.8,0602.6,1.8000000000000682,,volume up/down,expressway,,,,,,
+P23,0645.75,0647.05,1.2999999999999545,,others,expressway,,,,,,looking at phone
+P23,0651.9,0654.1,2.2000000000000455,,forward/backward,expressway,,,,,,
+P23,0654.6,0656.7,2.1000000000000227,,forward/backward,expressway,,,,,,
+p23,0716.2,0717.1,0.8999999999999773,,others,expressway,,,,,,looking at phone
+P23,1015.0,1016.8,1.7999999999999545,,pause/play,urban,very close to a turn ,,,,,crashed with a turning car at the turn
+P23,1048.75,1050.6,1.849999999999909,,pause/play,urban,,,,,,
+P23,1104.8,1105.6,0.7999999999999545,,forward/backward,urban,,,,,,
+P23,1114.15,1115.75,1.599999999999909,,volume up/down,urban,car was stopped before turn,,,,,
+p23,1117.4,1121.0,3.599999999999909,,volume up/down,urban,,,,,,
+P23,1121.4,1124.45,3.0499999999999545,,volume up/down,urban,,,,,,
+P23,1127.1,1128.3,1.2000000000000455,,others,urban,while at intersection,,,,,fixing the position of the phone
+P23,1130.4,1132.1,1.699999999999818,,forward/backward,urban,,,,,,unsuccessful gesture
+P23,1134.25,1135.5,1.25,,forward/backward,urban,close to a turn,,,,,
+p23,1148.5,1148.8,0.2999999999999545,,others,urban,,,,,,looking at phone ( P23 completed half the urban experiment)
+P08,4106.0,4106.9,0.8999999999996362,,others,expressway,,,,,,looking at phone
+P08,4107.0,4107.75,0.75,,others,expressway,,,,,,looking at phone
+P08,4108.0,4109.0,1.0,,volume up/down,expressway,,,,,,
+P08,4114.0,4117.15,3.149999999999636,,others,expressway,,,,,,Moving from playlist to play mode
+P08,4125.0,4125.6,0.6000000000003638,,volume up/down,expressway,,,,,,
+P08,4127.0,4127.6,0.6000000000003638,,volume up/down,expressway,,,,,,
+P08,4135.0,4135.7,0.6999999999998181,,others,expressway,,,,,,looking at phone
+P08,4140.0,4141.1,1.1000000000003638,,forward/backward,expressway,,,,,,unsuccessful gesture for previous function
+P08,4150.0,4151.7,1.699999999999818,,forward/backward,expressway,,,,,,unsuccessful gesture for previous function
+P08,4156.0,4156.7,0.6999999999998181,,volume up/down,expressway,,,,,,
+P08,4205.0,4206.8,1.800000000000182,,others,expressway,,,,,,
+P08,4208.0,4210.6,2.600000000000364,,others,expressway,,,,,,changing the slider
+P08,4215.0,4217.1,2.100000000000364,,others,expressway,,,,,,changing the slider
+P08,4225.0,4226.7,1.699999999999818,,forward/backward,expressway,,,,,,
+P08,4228.0,4229.0,1.0,,others,expressway,,,,,,looking at phone
+P08,4230.0,4230.6,0.6000000000003638,,others,expressway,,,,,,looking at phone
+P08,4235.0,4236.3,1.300000000000182,,volume up/down,expressway,,,,,,
+P08,4237.0,4237.5,0.5,,others,expressway,,,,,,looking at phone for confirmation of the gesture
+P08,4238.0,4238.5,0.5,,others,expressway,,,,,,looking at phone
+P08,4240.0,4240.7,0.6999999999998181,,others,expressway,,,,,,changing the slider
+P08,4241.0,4243.8,2.800000000000182,,others,expressway,very close to a car on the others lane,,,,,
+P08,4250.0,4252.1,2.100000000000364,,others,expressway,,,,,,changing the slider
+P08,4255.0,4255.6,0.6000000000003638,,others,expressway,,,,,,looking at phone
+P08,4257.0,4257.8,0.8000000000001819,,volume up/down,expressway,,,,,,
+P08,4302.0,4302.6,0.6000000000003638,,others,expressway,,,,,,looking at phone (hands off the wheel to execute gesture but changed his mind)
+P08,4304.0,4306.55,2.550000000000182,,others,expressway,,,,,,changing the slider
+P08,4310.0,4310.7,0.6999999999998181,,others,expressway,,,,,,looking at phone (hands off the wheel to execute gesture but changed his mind)
+P08,4315.0,4315.7,0.6999999999998181,,forward/backward,expressway,,,,,,unsuccessful gesture for next function
+P08,4317.0,4318.4,1.3999999999996362,,forward/backward,expressway,,,,,,
+P08,4340.0,4340.6,0.6000000000003638,,others,expressway,,,,,,looking at phone (hands off the wheel to execute gesture but changed his mind)
+P08,4343.0,4344.0,1.0,,volume up/down,expressway,,,,,,
+P08,4346.0,4346.8,0.8000000000001819,,others,expressway,,,,,,looking at phone
+P08,4350.0,4351.1,1.1000000000003638,,forward/backward,expressway,,,,,,
+P08,4354.0,4354.5,0.5,,others,expressway,,,,,,looking at phone for confirmation of the gesture
+P08,4400.0,4403.0,3.0,,forward/backward,expressway,,,,,,
+P08,4407.0,4408.7,1.699999999999818,,forward/backward,expressway,,,,,,
+P08,4412.0,4413.2,1.199999999999818,,forward/backward,expressway,,,,,,unsuccessful gesture
+P08,4922.0,4922.5,0.5,,others,urban,,,,,,looking at phone
+P08,4923.0,4924.3,1.300000000000182,,forward/backward,urban,,,,,,unsuccessful gesture for previous function
+P08,4925.0,4925.7,0.6999999999998181,,others,urban,,,,,,looking at phone (hands off the wheel to execute gesture but changed his mind)
+P08,4926.0,4926.5,0.5,,others,urban,,,,,,looking at phone (hands off the wheel to execute gesture but changed his mind)
+P08,4928.0,4930.5,2.5,,forward/backward,urban,While at intersection,,,,,starting the interaction before turn and conitued until mid of the intersection
+P08,4935.0,4935.8,0.8000000000001819,,others,urban,,,,,,looking at phone
+P08,4937.0,4937.6,0.6000000000003638,,others,urban,,,,,,looking at phone
+P08,4940.0,4940.7,0.6999999999998181,,forward/backward,urban,,,,,,unsuccessful gesture
+P08,4943.0,4944.8,1.800000000000182,,forward/backward,urban,,,,,,
+P08,5033.0,5033.0,0.0,,,urban,while at intersection,,,,,crashed with a car
+P08,5050.0,5050.6,0.6000000000003638,,others,urban,,,,,,looking at phone
+P08,5055.0,5057.7,2.699999999999818,,forward/backward,urban,very close to a turn moving slowly ,,,,,
+P08,5100.0,5103.7,3.699999999999818,,others,urban,car was stopped before turn,,,,,changing the slider
+P08,5200.0,5202.0,2.0,,forward/backward,urban,car was stopped before turn,,,,,
+P08,5206.0,5207.2,1.199999999999818,,others,urban,,,,,,changing the slider
+P08,5210.0,5210.7,0.6999999999998181,,volume up/down,urban,,,,,,
+P08,5220.0,5222.7,2.699999999999818,,volume up/down,urban,car was stopped before an intersection,,,,,
+P08,5223.0,5223.7,0.6999999999998181,,volume up/down,urban,,,,,,
+P08,5224.0,5224.5,0.5,,others,urban,,,,,,looking at phone (hands off the wheel to execute gesture but changed his mind)
+P08,5225.0,5225.7,0.6999999999998181,,others,urban,,,,,,looking at phone (hands off the wheel to execute gesture but changed his mind as he had to move--the red light changed to green)
+P08,5226.0,5227.5,1.5,,others,urban,,,,,,changing the slider
+P08,5230.0,5232.5,2.5,,others,urban,car was stopped before an intersection,,,,,changing the slider
